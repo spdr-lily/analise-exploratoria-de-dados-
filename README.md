@@ -2,7 +2,7 @@
 
 **1\. Introdução**
 
-Este relatório detalha o projeto de análise de dados realizado com um conjunto de dados contendo informações sobre os membros de uma família. O objetivo principal foi realizar uma análise exploratória dos dados para obter insights relevantes sobre a distribuição de salários por profissão, a quantidade de estudantes de ensino médio na família e o número de membros que não são de São Paulo.
+Este é um projeto de análise de dados realizado com um conjunto de dados contendo informações sobre os membros de uma família fictícia. O objetivo foi realizar uma análise exploratória dos dados para obter insights relevantes sobre a distribuição de salários por profissão, a quantidade de estudantes de ensino médio na família e o número de membros que não são de São Paulo.
 
 **2\. Metodologia**
 
